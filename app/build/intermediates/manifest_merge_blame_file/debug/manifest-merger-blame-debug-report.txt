@@ -1,0 +1,55 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mtechlabs.soundbeatzsaloneapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+8-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml:7:5-67
+11-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml:7:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml:8:5-79
+12-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml:8:22-76
+13
+14    <application
+14-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml:10:5-25:19
+15        android:allowBackup="true"
+15-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml:11:9-35
+16        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+16-->[com.android.support:support-compat:28.0.0] C:\Users\UBUNTU AFRIKA\.gradle\caches\transforms-2\files-2.1\f14724208b5bfeeef0d6bdefe649bca7\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+17        android:debuggable="true"
+18        android:icon="@drawable/icon"
+18-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml:12:9-38
+19        android:label="@string/app_name"
+19-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml:13:9-41
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml:14:9-40
+22        <activity
+22-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml:15:9-24:20
+23            android:name="com.mtechlabs.soundbeatzsaloneapp.Main"
+23-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml:16:13-66
+24            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+24-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml:17:13-122
+25            android:label="@string/app_name" >
+25-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml:18:13-45
+26            <intent-filter>
+26-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml:19:13-23:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml:20:17-69
+27-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml:20:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml:22:17-77
+29-->L:\mtechfiles\projects\andriodapp\soundbeatzsalone\BandApp\app\src\main\AndroidManifest.xml:22:27-74
+30            </intent-filter>
+31        </activity>
+32    </application>
+33
+34</manifest>

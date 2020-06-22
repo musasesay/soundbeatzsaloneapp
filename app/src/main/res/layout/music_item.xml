@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="horizontal"
+    android:padding="10dp"
+    android:weightSum="100" >
+
+    <com.loopj.android.image.SmartImageView
+        android:id="@+id/music_image"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="20"
+        android:adjustViewBounds="true"
+        android:paddingTop="10dp"
+        android:scaleType="centerCrop" />
+
+    <LinearLayout
+        android:layout_width="0dip"
+        android:layout_marginLeft="10dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="80"
+        android:orientation="vertical"
+        android:padding="5dp" >
+
+        <TextView
+            android:id="@+id/music_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Title"
+            android:textColor="@color/grey" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/music_lirics"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="5dp"
+            android:text="Lirics"
+            android:textColor="@color/grey" >
+        </TextView>
+    </LinearLayout>
+
+</LinearLayout>

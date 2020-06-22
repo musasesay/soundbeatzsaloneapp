@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_musicmma.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\musicmma.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stop.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\stop.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_songfragment.xml.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\layout\\songfragment.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\3637ad7267aebf352258eb32830074ae\\support-media-compat-28.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow_top.xml.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\shadow_top.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_galleryfragment.xml.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\layout\\galleryfragment.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pause.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\pause.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_musicfragment.xml.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\layout\\musicfragment.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\3637ad7267aebf352258eb32830074ae\\support-media-compat-28.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_google_plus.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\google_plus.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_imagefragment.xml.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\layout\\imagefragment.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_musicmm.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\musicmm.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\3637ad7267aebf352258eb32830074ae\\support-media-compat-28.0.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twitter.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\3637ad7267aebf352258eb32830074ae\\support-media-compat-28.0.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_newsfragment.xml.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\layout\\newsfragment.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bannerlogo.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\bannerlogo.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_picturess.jpg.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\home_picturess.jpg"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seeker.xml.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\seeker.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logosbsapp.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\logosbsapp.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_musicss.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\musicss.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_picture.jpg.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable-hdpi\\home_picture.jpg"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\3637ad7267aebf352258eb32830074ae\\support-media-compat-28.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\3637ad7267aebf352258eb32830074ae\\support-media-compat-28.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\3637ad7267aebf352258eb32830074ae\\support-media-compat-28.0.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\music.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iconm.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\iconm.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_playnow.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\playnow.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_picture.jpg.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable-xhdpi\\home_picture.jpg"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\news.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logosbsappnonostop.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\logosbsappnonostop.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_item.xml.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\layout\\news_item.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_conectmusic_fragment.xml.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\layout\\conectmusic_fragment.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_mainfragment.xml.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\layout\\mainfragment.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebooklg.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\facebooklg.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_home_picture.jpg.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable-ldpi\\home_picture.jpg"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\3637ad7267aebf352258eb32830074ae\\support-media-compat-28.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_picture.jpg.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable-xxhdpi\\home_picture.jpg"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home_picture.jpg.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable-mdpi\\home_picture.jpg"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\3637ad7267aebf352258eb32830074ae\\support-media-compat-28.0.0\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_pic.jpg.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\home_pic.jpg"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow_bottom.xml.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\shadow_bottom.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_picture.jpg.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\home_picture.jpg"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_newspagefragment.xml.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\layout\\newspagefragment.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_music_item.xml.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\layout\\music_item.xml"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homm.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\drawable\\homm.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\UBUNTU AFRIKA\\.gradle\\caches\\transforms-2\\files-2.1\\f14724208b5bfeeef0d6bdefe649bca7\\support-compat-28.0.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "L:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

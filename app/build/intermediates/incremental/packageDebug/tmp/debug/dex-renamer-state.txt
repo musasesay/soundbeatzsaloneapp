@@ -1,0 +1,4 @@
+#Mon Jun 22 15:04:33 GMT 2020
+base.0=L\:\\mtechfiles\\projects\\andriodapp\\soundbeatzsalone\\BandApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

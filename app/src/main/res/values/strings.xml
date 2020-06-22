@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ____________________________________________App Name___________________________________________ -->
+    <string name="app_name">SoundBeatzSL</string>
+
+    <!-- ____________________________________________Colors___________________________________________ -->
+    <color name="black">#ff222426</color>
+    <color name="grey">#ff363636</color>
+    <color name="white">#ffF7F7F7</color>
+    <color name="blue">#ff1BA1E2</color>
+    <color name="green">#ff8CBF26</color>
+    <color name="yellow">#ffF09609</color>
+    <color name="pink">#ffFF0097</color>
+    <color name="red">#ffE51400</color>
+
+    <!-- ____________________________________________menu names____________________________________________ -->
+    <string name="songs">Songs</string>
+    <string name="gallery">Gallery</string>
+    <string name="news">News</string>
+
+    <!-- ____________________________________________Default image____________________________________________ -->
+    <string name="default_image">music</string>
+
+    <!-- ____________________________________________Error Variables___________________________________________ -->
+    <!-- Error Dialog -->
+    <string name="ErrorHeader">Error</string>
+    <string name="AcceptError">OK</string>
+
+    <!-- Types of Errors when loading data -->
+    <string name="ServerError">Server Error</string>
+    <string name="CorruptedData">Corrupted Data</string>
+    <string name="ServerNotFound">No Internet Detected for sync. Cached data would be shown.</string>
+    <string name="LoadingError">Error Loading Data</string>
+    <string name="UniquePreferenceName">bandapp_uniquepreference</string>
+
+    <!-- Audio -->
+    <string name="AudioNotPrepared">Please wait, Buffering Song.</string>
+    <string name="NoInternet">Audio Cannot be played if there is no Internet connection.</string>
+    <string name="Unsupported">Sorry, this song is not supported on your Device.</string>
+<!--    http://soundbeatzsalone.com/-->
+    <!-- ____________________________________________Social Networks___________________________________________ -->
+    <string name="FacebookUrl">http://soundbeatzsalone.com</string>
+<!--    <string name="FacebookUrl">https://www.facebook.com/NeuronDigital</string>-->
+    <string name="GooglePlusUrl">https://www.facebook.com/msaytech/</string>
+    <string name="TwitterUrl">http://soundbeatzsalone.com/new-releases</string>
+
+    <!-- ___________________________________________Server Variables___________________________________________ -->
+    <string name="ServerUrl">http://www.luvm.96.lt/appserver.php</string>
+<!--    <string name="ServerUrl">http://www.neurondigital.com/demos/bandapp/appserver.php</string>-->
+
+<!--    luvm.96.lt-->
+</resources>
